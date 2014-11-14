@@ -2,7 +2,7 @@
 ---
 
 
-# pasfrais: viewed as an **app starter kit**
+# pasfrais: viewed as an App Starter Kit
 
 I decided to build an app just because. Actually, my inspiration was Michael Mahemoff's book, [Ajax Design Patterns](http://shop.oreilly.com/product/9780596101800.do), which I read on the way to consult on some enterprise IT 'cloud' service delivery issues. I had minor knowledge of the coding world; I admit I knew a few emacs commands, but I was, and am, uncomfortable with pointers.
 
