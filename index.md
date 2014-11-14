@@ -2,7 +2,7 @@
 ---
 
 
-# pasfrais, an app starter kit
+# pasfrais: viewed as an **app starter kit**
 
 I decided to build an app just because. Actually, my inspiration was Michael Mahemoff's book, [Ajax Design Patterns](http://shop.oreilly.com/product/9780596101800.do), which I read on the way to consult on some enterprise IT 'cloud' service delivery issues. I had minor knowledge of the coding world; I admit I knew a few emacs commands, but I was, and am, uncomfortable with pointers.
 
@@ -11,6 +11,8 @@ After many months of learning, I expect to ship (on Nov 15) an iOS app, 'pasfrai
 Open source software is a very cool concept, and, in my narrow, app development case, I realized that exposing the un-obfuscated, fully commented and wartified source could repesent a 'starter kit' for anyone wanted to build their own html5 app. So, I offer [pasfrais](https://github.com/pasfrais/gae) as a launchpad for your exploration into html5 front-end + back-end services. Undoubtedly, you will find bugs, inconsistency, and lack of professional standards; I'm not a coder and don't aspire to be one. (The code will be there before the app is released.)
 
 Please enjoy the work, leverage it to build something great. 
+
+And follow my progress as I promote the use of pasfrais as a catalyst for social discussion and problem solving.
 
 
 
