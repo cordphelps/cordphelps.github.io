@@ -8,7 +8,7 @@ I decided to build an app just because. Actually, my inspiration was Michael Mah
 
 After a long, personal hackathon, I shipped an iOS app, ['pasfrais'](https://itunes.apple.com/us/app/pasfrais/id925137274?ls=1&mt=8), that exhibits weaknesses, but satisfies my design goals fairly well. And, in retrospect, I noticed several things about the app development ecosystem and about myself. 
 
-Open source software is a very cool concept, and, in my narrow, app development case, I realized that exposing the un-obfuscated, fully commented and wartified source could repesent a 'starter kit' for anyone wanted to build their own html5 app. So, I offer [pasfrais](https://github.com/pasfrais/gae) as a launchpad for your exploration into html5 front-end + back-end services. Undoubtedly, you will find bugs, inconsistency, and lack of professional standards; I'm not a coder and don't aspire to be one. (The code will be there before the app is released.)
+Open source software is a very cool concept, and, in my narrow, app development case, I realized that exposing the un-obfuscated, fully commented and wartified source could repesent a 'starter kit' for anyone wanted to build their own html5 app. So, I offer [pasfrais](https://github.com/pasfrais/gae) as a launchpad for your exploration into html5 front-end + back-end services. Undoubtedly, you will find bugs, inconsistency, and lack of professional standards; I'm not a coder and don't aspire to be one. 
 
 Please enjoy the work, leverage it to build something great. 
 
