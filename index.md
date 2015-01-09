@@ -17,7 +17,7 @@ Before you start, get comfortable with a few things:
 - [github](https://github.com/)
 - [bash](http://en.wikipedia.org/wiki/Bash_(Unix_shell))
 - [html5 (html, javascript, css)](http://www.html5rocks.com/en/) 
--- [..css debug](http://jsfiddle.net/)
+- [jsfiddle](http://jsfiddle.net/) (a lightweight html5 debugging space)
 - [golang](https://golang.org/)
 - [app engine](https://cloud.google.com/appengine/docs)
 - [phonegap Build](https://build.phonegap.com/apps)
