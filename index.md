@@ -25,7 +25,7 @@ Before you start, get comfortable with a few things:
 - [stackoverflow](http://en.wikipedia.org/wiki/Stack_Overflow)
 - [comments on the mobile platform](http://www.addthis.com/blog/2014/10/27/7-things-to-consider-when-making-ios-and-android-apps-with-cordova-or-phonegap/)
 
-As soon as you have you prototype running, read [Learning JavaScript Design Patterns](http://shop.oreilly.com/product/0636920025832.do) by Addy Osmani.
+As soon as you have your prototype running, read [Learning JavaScript Design Patterns](http://shop.oreilly.com/product/0636920025832.do) by Addy Osmani.
 
 And follow my progress as I promote the use of pasfrais as a catalyst for social discussion and problem solving.
 
