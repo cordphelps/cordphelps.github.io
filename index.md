@@ -17,13 +17,14 @@ Before you start, get comfortable with a few things:
 - [github](https://github.com/)
 - [bash](http://en.wikipedia.org/wiki/Bash_(Unix_shell))
 - [html5 (html, javascript, css)](http://www.html5rocks.com/en/) 
+- [before going further, internalize concepts of responsive design](http://alistapart.com/article/responsive-web-design)
 - [jsfiddle](http://jsfiddle.net/) (a lightweight html5 debugging space)
 - [golang](https://golang.org/)
 - [app engine](https://cloud.google.com/appengine/docs)
-- [phonegap Build](https://build.phonegap.com/apps)
+- [phoneGap Build](https://build.phonegap.com/apps)
 - [photoshop](http://www.photoshop.com/) 
 - [stackoverflow](http://en.wikipedia.org/wiki/Stack_Overflow)
-- [comments on the mobile platform](http://www.addthis.com/blog/2014/10/27/7-things-to-consider-when-making-ios-and-android-apps-with-cordova-or-phonegap/)
+- [and general comments on the mobile platform](http://www.addthis.com/blog/2014/10/27/7-things-to-consider-when-making-ios-and-android-apps-with-cordova-or-phonegap/)
 
 As soon as you have your prototype running, read [Learning JavaScript Design Patterns](http://shop.oreilly.com/product/0636920025832.do) by Addy Osmani.
 
