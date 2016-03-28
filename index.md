@@ -3,8 +3,9 @@
 
 
 ![alt text](pasfrais-image.png "optional title")
-![alt text](irrigavi-image.png "optional title")
-### thanks Michael Mahemoff, [Ajax Design Patterns](http://shop.oreilly.com/product/9780596101800.do)
+[](https://docs.google.com/spreadsheets/d/1ybksh3K2NQFo_awGiwlFOzRInnuLObz8hgp5rHyF55Q/pubchart?oid=258150703&format=image)
+
+
 
 
 
