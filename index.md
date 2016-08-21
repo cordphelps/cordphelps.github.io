@@ -12,6 +12,8 @@
 
 ![alt text](battery.png "optional title")
 
+![alt text](AHC HBI 720-690.png "optional title")
+
 
 
 
