@@ -2,6 +2,8 @@
 ---
 
 
+![alt text](soutirage.png "optional title")
+
 ![alt text](paintings/thistles.png "optional title")
 
 ![alt text](pasfrais-image.png "optional title")
