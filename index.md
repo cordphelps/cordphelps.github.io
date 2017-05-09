@@ -6,6 +6,8 @@
 
 ![alt text](paintings/thistles.png "optional title")
 
+![alt text](pasfrais-screenshot.png "optional title")
+
 ![alt text](pasfrais-image.png "optional title")
 
 ![alt text](battery.png "optional title")
