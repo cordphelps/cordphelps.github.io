@@ -1,7 +1,7 @@
 ---
 ---
 
-![alt text](images/traansect.png "optional title")
+![alt text](images/transect.png "optional title")
 
 ![alt text](images/tallDrip.png "optional title")
 
