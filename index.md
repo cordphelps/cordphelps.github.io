@@ -1,6 +1,8 @@
 ---
 ---
 
+![alt text](images/cetacea.png "optional title")
+
 ![alt text](images/transect.png "optional title")
 
 ![alt text](images/tallDrip.png "optional title")
