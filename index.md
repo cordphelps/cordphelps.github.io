@@ -1,5 +1,6 @@
 ---
 ---
+![alt text](images/drone.png "optional title")
 
 ![alt text](images/bioControl.png "optional title")
 
