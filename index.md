@@ -1,7 +1,7 @@
 ---
 ---
 
-![alt text](images/cetacea.png "optional title")
+![alt text](images/bioControl.png "optional title")
 
 ![alt text](images/transect.png "optional title")
 
