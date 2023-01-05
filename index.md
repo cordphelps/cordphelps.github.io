@@ -1,6 +1,6 @@
 ---
 ---
-![alt text](images/snyder1.png "optional title")
+![alt text](images/snyder1.png "https://www.youtube.com/watch?v=00F1VhggSvc")
 
 ![alt text](images/drone.png "optional title")
 
